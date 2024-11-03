@@ -1,0 +1,5 @@
+Announcing Python Software Foundation Fellow Members for Q2 2024! 🎉
+Python 3.14.0 alpha 1 is now available
+PSF Q3 Highlights: Board news, development updates and more!
+Join the Python Developers Survey 2024: Share your experience!
+Python 3.13.0 (final) released
